@@ -1,0 +1,2 @@
+Contract deployed to Mumbai: [0xe49a4d5769ecdc482726cf6853c0fb99d7367e1d](https://mumbai.polygonscan.com/tx/0x43bcf292946e9504f308b92482a5c69b4d5346fafeb191686dd8a592a11f2d6a)  
+Contract deployed to Swisstronik : [0x09002189e669F6D1018CB8a5C1DbADFf31d123C9](https://explorer-evm.testnet.swisstronik.com/tx/0x0773ebb9d48fd01f3dfc5cb9e431d984706cb8730f36fceddc2cc94ba623e59e)
